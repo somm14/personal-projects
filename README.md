@@ -18,4 +18,4 @@ Este espacio me permite:
 *(Siempre abierta a nuevas ideas y retos.)*
 
 ## 📬 Contacto
-Si quieres compartir ideas o sugerencias, puedes contactarme en [LinkedIn](www.linkedin.com/in/sorayamm) o revisar mis otros repositorios en [GitHub](https://github.com/somm14).
+Si quieres compartir ideas o sugerencias, puedes contactarme en [LinkedIn](https://www.linkedin.com/in/sorayamm/) o revisar mis otros repositorios en [GitHub](https://github.com/somm14).
