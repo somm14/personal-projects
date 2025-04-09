@@ -11,7 +11,7 @@ Cada proyecto incluye su propio conjunto de datos (cuando es posible compartirlo
 - **Descripción:** Análisis y predicción de clientes con mayor probabilidad de abandono en un servicio de telecomunicaciones.
 - **Tecnologías:** Python, Pandas, Scikit-Learn, Plotly, LightGBM.
 - **Objetivo:** Aplicar un enfoque completo de Data Science desde el análisis exploratorio hasta la selección de clientes con mayor riesgo.
-- **Repositorio:** [🔗 Ver Proyecto](./Customer-Churn-Prediction)
+- **Repositorio:** [🔗 Ver Proyecto](Customer_Churn_Prediction)
 
 ## 🏆 Objetivo del Repositorio
 Este espacio me permite:
